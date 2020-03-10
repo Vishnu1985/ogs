@@ -1,0 +1,246 @@
+/*
+The CSS export should solely be used as a reference.
+For a more detailed animation export the JSON file should be used.
+*/
+#amex {
+    transform: translateX(-50%) translateY(-50%);
+    animation: amex__y__1 3000ms 0ms ease-in-out forwards, amex__y__2 6ms 3000ms ease-in-out forwards, amex__y__3 2996ms 3006ms ease-in-out forwards;
+}
+
+@keyframes amex__y__1 {
+    from {
+        top: 330.3092px;
+    }
+
+    to {
+        top: 300px;
+    }
+}
+@keyframes amex__y__2 {
+    from {
+        top: 300px;
+    }
+
+    to {
+        top: 300px;
+    }
+}
+@keyframes amex__y__3 {
+    from {
+        top: 300px;
+    }
+
+    to {
+        top: 330.3092px;
+    }
+}
+
+#mastercard {
+    transform: translateX(-50%) translateY(-50%);
+    animation: mastercard__y__1 205ms 0ms ease-in-out forwards, mastercard__y__2 2529ms 205ms ease-in-out forwards, mastercard__y__3 15ms 2734ms ease-in-out forwards, mastercard__y__4 3057ms 2749ms ease-in-out forwards;
+}
+
+@keyframes mastercard__y__1 {
+    from {
+        top: 323.3297px;
+    }
+
+    to {
+        top: 323.3297px;
+    }
+}
+@keyframes mastercard__y__2 {
+    from {
+        top: 323.3297px;
+    }
+
+    to {
+        top: 300px;
+    }
+}
+@keyframes mastercard__y__3 {
+    from {
+        top: 300px;
+    }
+
+    to {
+        top: 300px;
+    }
+}
+@keyframes mastercard__y__4 {
+    from {
+        top: 300px;
+    }
+
+    to {
+        top: 323.3297px;
+    }
+}
+
+#unionpay {
+    transform: translateX(-50%) translateY(-50%);
+    animation: unionpay__y__1 501ms 0ms linear forwards, unionpay__y__2 2263ms 501ms ease-in-out forwards, unionpay__y__3 14ms 2764ms ease-in-out forwards, unionpay__y__4 3221ms 2778ms ease-in-out forwards;
+}
+
+@keyframes unionpay__y__1 {
+    from {
+        top: 220.2681px;
+    }
+
+    to {
+        top: 220.2681px;
+    }
+}
+@keyframes unionpay__y__2 {
+    from {
+        top: 220.2681px;
+    }
+
+    to {
+        top: 200px;
+    }
+}
+@keyframes unionpay__y__3 {
+    from {
+        top: 200px;
+    }
+
+    to {
+        top: 200px;
+    }
+}
+@keyframes unionpay__y__4 {
+    from {
+        top: 200px;
+    }
+
+    to {
+        top: 220.2681px;
+    }
+}
+
+#nyce {
+    transform: translateX(-50%) translateY(-50%);
+    animation: nyce__y__1 202ms 0ms ease-in-out forwards, nyce__y__2 3447ms 202ms ease-in-out forwards, nyce__y__3 14ms 3649ms ease-in-out forwards, nyce__y__4 2335ms 3663ms ease-in-out forwards;
+}
+
+@keyframes nyce__y__1 {
+    from {
+        top: 222.0435px;
+    }
+
+    to {
+        top: 222.0435px;
+    }
+}
+@keyframes nyce__y__2 {
+    from {
+        top: 222.0435px;
+    }
+
+    to {
+        top: 210px;
+    }
+}
+@keyframes nyce__y__3 {
+    from {
+        top: 210px;
+    }
+
+    to {
+        top: 210px;
+    }
+}
+@keyframes nyce__y__4 {
+    from {
+        top: 210px;
+    }
+
+    to {
+        top: 222.0435px;
+    }
+}
+
+#visa {
+    transform: translateX(-50%) translateY(-50%);
+    animation: visa__y__1 338ms 0ms linear forwards, visa__y__2 2943ms 338ms ease-in-out forwards, visa__y__3 12ms 3281ms ease-in-out forwards, visa__y__4 2710ms 3293ms ease-in-out forwards;
+}
+
+@keyframes visa__y__1 {
+    from {
+        top: 252.9971px;
+    }
+
+    to {
+        top: 252.9971px;
+    }
+}
+@keyframes visa__y__2 {
+    from {
+        top: 252.9971px;
+    }
+
+    to {
+        top: 220px;
+    }
+}
+@keyframes visa__y__3 {
+    from {
+        top: 220px;
+    }
+
+    to {
+        top: 220px;
+    }
+}
+@keyframes visa__y__4 {
+    from {
+        top: 220px;
+    }
+
+    to {
+        top: 252.9971px;
+    }
+}
+
+#rupay {
+    transform: translateX(-50%) translateY(-50%);
+    animation: rupay__y__1 301ms 0ms linear forwards, rupay__y__2 3016ms 301ms ease-in-out forwards, rupay__y__3 17ms 3317ms ease-in-out forwards, rupay__y__4 2652ms 3334ms ease-in-out forwards;
+}
+
+@keyframes rupay__y__1 {
+    from {
+        top: 263.0652px;
+    }
+
+    to {
+        top: 263.0652px;
+    }
+}
+@keyframes rupay__y__2 {
+    from {
+        top: 263.0652px;
+    }
+
+    to {
+        top: 245px;
+    }
+}
+@keyframes rupay__y__3 {
+    from {
+        top: 245px;
+    }
+
+    to {
+        top: 245px;
+    }
+}
+@keyframes rupay__y__4 {
+    from {
+        top: 245px;
+    }
+
+    to {
+        top: 263.0652px;
+    }
+}
