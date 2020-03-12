@@ -1416,3 +1416,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.solution-text {
+  color: #222;
+  font-size: 20px;
+  font-style: italic;
+  text-transform: capitalize;
+  text-shadow: 2px 3px 5px rgba(0,0,0,0.15);
+  font-weight: 600;
+}
+
+.solution-img {
+  text-shadow: 3px 10px 20px rgba(0,0,0,0.55);
+}
+
+
+.shape-cut {
+    width: 100%;
+    margin: 0 auto;
+    -webkit-box-shadow: 0 3rem 6rem rgba(0,0,0,0.1);
+    box-shadow: 0 3rem 6rem rgba(0,0,0,0.1);
+    background-color: rgba(255,255,255,0.6);
+    border-radius: 3px;
+    padding: 6rem;
+    padding-left: 9rem;
+    font-size: 1.6rem;
+    -webkit-transform: skewX(-12deg);
+    transform: skewX(-12deg);
+}
