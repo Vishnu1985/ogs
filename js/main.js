@@ -322,6 +322,8 @@
 		}
 	};
 
+
+
 	var aboutAnimate = function() {
 		var about = $('#fh5co-about');
 		if ( about.length > 0 ) {	
